@@ -1,5 +1,5 @@
 # Date: 11.03.2023 17:00
-# Author: 1337rce
+# Author: k3rnel
 # Description: Passwd Generator
 import sys
 import os
