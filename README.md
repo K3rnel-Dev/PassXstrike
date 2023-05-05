@@ -33,6 +33,6 @@
   </tbody>
 </table>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rnel-dev&langs_count=8&theme=react)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rnel-Dev&langs_count=8&theme=react)
 
 </div>
